@@ -9,6 +9,8 @@ Parts needed:
 - 4 extra arcade buttons
 - 14 relays (more if you want light up buttons / accessories to switch with the relays)
 - A bunch of wire
+- An on/off switch
+- (optional) An Arduino (for automatic switching with the CPS2 Multi-Kit)
 - Patience
 
 
